@@ -41,6 +41,10 @@ The project is broken down into several components:
 
 - `calculateWinner`: A helper function that examines the current state of the game board to identify a winner by verifying all possible winning combinations (rows, columns, and diagonals).
 
+# Start
+
+Don't forget to use `npm install` for downlosding dependencies and `npm start` for running it on a localhost server 3000 ;)
+
 ## Features
 
 - Two players can take turns to play the game.
